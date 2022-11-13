@@ -186,6 +186,14 @@ layout: default
 1. [那些在豆瓣上消失的书](http://cul.qq.com/a/20151104/026086.htm)
 
 
+### 游戏
+编号|游戏|年代|开发商
+---|---|---|---|---
+1|还愿|赤烛游戏|2019
+2|返校|赤烛游戏|2017 
+{: #game .display}
+
+
   <script type="text/javascript">
     $(document).ready(function() {
       $('#movie').DataTable({
